@@ -1,9 +1,9 @@
 const cacheName = "Born-Citadel-1.0.0";
 const contentToCache = [
     "Build/Citadel_PWA.loader.js",
-    "Build/Citadel_PWA.framework.js.br",
-    "Build/Citadel_PWA.data.br",
-    "Build/Citadel_PWA.wasm.br",
+    "Build/Citadel_PWA.framework.js.unityweb",
+    "Build/Citadel_PWA.data.unityweb",
+    "Build/Citadel_PWA.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
